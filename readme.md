@@ -19,10 +19,10 @@ Problema/Situazione: Attraversare la strada con molta prudenza.
         - ? SE a destra è libero
             - Attraverso la strada.
         - : ALTRIMENTI
-            - nel frattempo a sinistra sopraggiunge un'automobile 
+            - sopraggiunge un'automobile 
             - aspetto e non attraverso.
     - : ALTRIMENTI
-        - a destra sopraggiunge un'automobile
+        - sopraggiunge un'automobile
         - aspetto e non attraverso.
 
 
